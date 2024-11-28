@@ -1,0 +1,7 @@
+
+
+# Ignorar node_modules
+**/node_modules/
+
+# Ignorar lockfiles (opcional, si no quieres subirlos)
+package-lock.json
